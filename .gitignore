@@ -1,0 +1,88 @@
+# ======================
+# Python
+# ======================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.env.*
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+
+# ======================
+# Jupyter Notebook
+# ======================
+.ipynb_checkpoints
+
+# ======================
+# VSCode
+# ======================
+.vscode/
+
+# ======================
+# PyCharm
+# ======================
+.idea/
+
+# ======================
+# OS files
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# Docker
+# ======================
+*.tar
+*.gz
+*.log
+docker-compose.override.yml
+
+# ======================
+# Environment variables
+# ======================
+.env
+.env.local
+
+# ======================
+# Database
+# ======================
+*.sqlite3
+*.db
+
+# ======================
+# Temporary files
+# ======================
+*.tmp
+*.swp
+
+# ======================
+# Model / AI (nếu có)
+# ======================
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# ======================
+# Uploads / media
+# ======================
+uploads/
+media/
+
+# ======================
+# Node (nếu có frontend)
+# ======================
+node_modules/
+package-lock.json
+yarn.lock
