@@ -11,7 +11,7 @@ from ultralytics import YOLO
 import numpy as np
 
 # ─── CONFIG ──────────────────────────────────────────────────────────────────
-MODEL_PATH = "runs10c_20/detect/train/weights/best.pt"
+MODEL_PATH = "runs9c_30/detect/train/weights/best.pt"
 CONF_THRESH = 0.40
 
 
