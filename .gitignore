@@ -70,7 +70,6 @@ docker-compose.override.yml
 # Model / AI (nếu có)
 # ======================
 *.h5
-*.pt
 *.pth
 *.onnx
 

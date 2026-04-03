@@ -15,6 +15,7 @@ MODEL_PATH = "runs9c_30/detect/train/weights/best.pt"
 CONF_THRESH = 0.40
 
 
+
 CLASS_CONFIG = {
     "Aluminium foil":    {"color": "#C0C0C0", "bin": "Kim Loại", "emoji": "🫙"},
     "Bottle":            {"color": "#63B3ED", "bin": "Nhựa",     "emoji": "🍶"},
